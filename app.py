@@ -1,3 +1,3 @@
 a = "hello"
 b = "fine"
-c = "keethi keerthi"
+c = 6
